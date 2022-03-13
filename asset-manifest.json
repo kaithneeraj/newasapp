@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newasapp/static/css/main.04179b6f.css",
+    "main.js": "/newasapp/static/js/main.9f3ad31b.js",
+    "index.html": "/newasapp/index.html",
+    "main.04179b6f.css.map": "/newasapp/static/css/main.04179b6f.css.map",
+    "main.9f3ad31b.js.map": "/newasapp/static/js/main.9f3ad31b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.9f3ad31b.js"
+  ]
+}
